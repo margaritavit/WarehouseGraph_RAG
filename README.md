@@ -9,8 +9,19 @@ This project utilizes LangChain to create an intelligent agent designed for inte
 - **Cypher Query Generation:** Automatically generates Cypher queries to interact with the warehouse graph database, facilitating complex data retrieval and manipulation tasks.
 - **Integration with LangChain:** Utilizes LangChain framework to streamline the development of natural language processing and understanding capabilities.
 
-## Graph Database Schema
+## Graph Database
 See warehouse_db_screenshot.png
+Data used: see warehouse_data.csv
+
+The database contains information about parts and tools for aircraft maintenance. The data is structured to include:
+
+- pickslip id: A unique identifier for each pickslip.
+- part id: A unique identifier for each part.
+- part category: The category of the part (e.g., consumable, expendable).
+- part description: A detailed description of the part.
+- part ata chapter: The ATA chapter that categorizes the part.
+- pickslip status: The current status of the pickslip (code for pending/completed/canceled).
+- pickslip creator id: The ID of the person who created the pickslip.
 
 ## Prerequisites
 
