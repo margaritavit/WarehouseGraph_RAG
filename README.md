@@ -10,7 +10,7 @@ This project utilizes LangChain to create an intelligent agent designed for inte
 - **Integration with LangChain:** Utilizes LangChain framework to streamline the development of natural language processing and understanding capabilities.
 
 ## Graph Database Schema
-
+`![Image Description](warehouse_db_screenshot.png)`
 
 ## Prerequisites
 
@@ -25,8 +25,8 @@ Contributions are welcome! Please fork the repository and create a pull request 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
-LangChain - The framework used to build the agent.
-Neo4j - The graph database used for data storage and retrieval.
+LangChain - The framework used to build the agent.  
+Neo4j - The graph database used for data storage and retrieval.  
 OpenAI - The service providing the natural language processing capabilities.
 
 ## Contact
