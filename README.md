@@ -30,4 +30,4 @@ Neo4j - The graph database used for data storage and retrieval.
 OpenAI - The service providing the natural language processing capabilities.
 
 ## Contact
-If you have any questions or feedback, please feel free to contact us at [mvitoropoulou@aegeanair.com, christos.grigoras@aegeanair.com].
+If you have any questions or feedback, please feel free to contact us at mvitoropoulou@aegeanair.com, christos.grigoras@aegeanair.com.
