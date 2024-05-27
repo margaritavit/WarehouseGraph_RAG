@@ -10,3 +10,24 @@ This project utilizes LangChain to create an intelligent agent designed for inte
 - **Integration with LangChain:** Utilizes LangChain framework to streamline the development of natural language processing and understanding capabilities.
 
 ## Graph Database Schema
+
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+- Neo4j database 
+- OpenAI API key
+
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code adheres to the project's coding standards and include relevant tests.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Acknowledgements
+LangChain - The framework used to build the agent.
+Neo4j - The graph database used for data storage and retrieval.
+OpenAI - The service providing the natural language processing capabilities.
+
+## Contact
+If you have any questions or feedback, please feel free to contact us at [mvitoropoulou@aegeanair.com, christos.grigoras@aegeanair.com].
