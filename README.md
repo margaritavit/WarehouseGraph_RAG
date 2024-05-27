@@ -10,7 +10,7 @@ This project utilizes LangChain to create an intelligent agent designed for inte
 - **Integration with LangChain:** Utilizes LangChain framework to streamline the development of natural language processing and understanding capabilities.
 
 ## Graph Database Schema
-`![Image Description](warehouse_db_screenshot.png)`
+`![Image Description](WarehouseGraph_RAG/warehouse_db_screenshot.png)`
 
 ## Prerequisites
 
